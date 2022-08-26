@@ -17,5 +17,6 @@ npm install
 npm run start
 ```
 
-
+### Barcode
+![alt text](https://github.com/joshuaautawi/customer-queue-management/blob/master/barcode.png?raw=true)
 
