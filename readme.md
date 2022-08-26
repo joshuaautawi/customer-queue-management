@@ -17,6 +17,17 @@ npm install
 npm run start
 ```
 
-### Barcode
+### Home UI
+![alt text](https://github.com/joshuaautawi/customer-queue-management/blob/master/home.png?raw=true)
+### Barcode UI
 ![alt text](https://github.com/joshuaautawi/customer-queue-management/blob/master/barcode.png?raw=true)
+
+### Visitor List UI
+![alt text](https://github.com/joshuaautawi/customer-queue-management/blob/master/visitor-list.png?raw=true)
+
+
+### Add Visitor UI photo
+![alt text](https://github.com/joshuaautawi/customer-queue-management/blob/master/add-visitor.png?raw=true)
+
+
 
